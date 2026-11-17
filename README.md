@@ -89,11 +89,19 @@ El análisis comprende los goles registrados en el dataset para competiciones of
 
 Los resultados tienen una finalidad académica, descriptiva y exploratoria.
 
-## 9. Vista previa del dashboard
+## 9. Archivos principales del proyecto
+
+- [Dataset original](data/raw/)
+- [Dataset normalizado](data/processed/)
+- [Dashboard interactivo de Power BI](dashboard/)
+- [Vista previa de las cinco páginas del dashboard](dashboard/Messi_Dashboard_5_Paginas.png)
+- [Informe técnico final de Coderhouse](docs/Informe%20Proyecto%20Final.pdf)
+
+## 10. Vista previa del dashboard
 
 ![Dashboard de Lionel Messi - 5 páginas](dashboard/Messi_Dashboard_5_Paginas.png)
 
-## 10. Fuente y documentación
+## 11. Fuente y documentación
 
 **Fuente:** Kaggle
 
