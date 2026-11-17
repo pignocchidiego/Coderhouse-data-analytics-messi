@@ -89,7 +89,11 @@ El análisis comprende los goles registrados en el dataset para competiciones of
 
 Los resultados tienen una finalidad académica, descriptiva y exploratoria.
 
-## 9. Fuente y documentación
+## 9. Vista previa del dashboard
+
+![Dashboard de Lionel Messi - 5 páginas](dashboard/Messi_Dashboard_5_Paginas.png)
+
+## 10. Fuente y documentación
 
 **Fuente:** Kaggle
 
